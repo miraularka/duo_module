@@ -1,5 +1,7 @@
 # Duolingo Module for Polybar
-Simplistic module to act as a reminder to do your daily lessons as well as a motivational streak counter.
+Unofficial module to act as a reminder to do your daily language lessons.
+
+![Duo Module for Polybar](https://cdn.imgchest.com/files/pyq9cpxkq42.png)
 
 ### Requires
 
