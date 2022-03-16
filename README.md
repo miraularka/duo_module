@@ -14,7 +14,7 @@ Recommend to utilize Font Awesome, Siji or similar fonts for the glyphs, althoug
 ~/.config/polybar/duo.py
 ```
 - Then modify your polybar config.ini
-```
+```ini
 [module/duo]
 type = custom/script
 exec = python3 $HOME/.config/polybar/duo.py
