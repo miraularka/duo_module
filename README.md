@@ -10,7 +10,7 @@ Recommend to utilize Font Awesome, Siji or similar fonts for the glyphs, althoug
 
 ## Installation
 - Place duo.py within your polybar directory. Make sure to include your _username_ and _password_ at the top of the file.
-`~/.config/polybar/duo.py`
+* `~/.config/polybar/duo.py`
 
 ## Module
 ```ini
