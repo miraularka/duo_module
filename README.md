@@ -3,14 +3,14 @@ Simplistic module to act as a reminder to do your daily lessons as well as a mot
 
 ### Requires
 
-```sh
+```bash
 pip install duolingo-api
 ```
 Recommend to utilize Font Awesome, Siji or similar fonts for the glyphs, although they are technically not required for the module to function.
 
 ### Installation
 - First place duo.py within your polybar directory. Make sure to include your _username_ and _password_ at the top.
-```
+```bash
 ~/.config/polybar/duo.py
 ```
 - Then modify your polybar config.ini
@@ -23,7 +23,7 @@ label = %output%
 click-left = firefox --new-tab duolingo.com
 ```
 - Place the module where prefered on the bar
-```
+```ini
 modules-center = date duo
 ```
 - Lastly make sure to save your config.ini and reload your polybar!
