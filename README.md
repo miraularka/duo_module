@@ -4,7 +4,8 @@ Unofficial module to act as a reminder to do your daily language lessons.
 ![Duo Module for Polybar](https://cdn.imgchest.com/files/pyq9cpxkq42.png)
 
 ## Dependencies
-*`pip install duolingo-api`
+* `pip install duolingo-api`
+
 Recommend to utilize Font Awesome, Siji or similar fonts for the glyphs, although they are technically not required for the module to function.
 
 ## Installation
